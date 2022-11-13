@@ -1,0 +1,10 @@
+sprite_index = cat_zsector
+thiscategory = "zsector"
+tech_level = "F"
+graphic_style = "C"
+sovereignty = "G"
+tournament_ready = 1
+humanoid = 0
+seasonal = 0
+meme = 0
+boss = 0

@@ -1,0 +1,10 @@
+sprite_index = cat_warzone_2100
+thiscategory = "warzone2100"
+tech_level = "F"
+graphic_style = "R"
+sovereignty = "B"
+tournament_ready = 1
+humanoid = 1
+seasonal = 0
+meme = 0
+boss = 0

@@ -1,0 +1,1 @@
+sprite_index = spr_cameo_defense_buttons_playcameo

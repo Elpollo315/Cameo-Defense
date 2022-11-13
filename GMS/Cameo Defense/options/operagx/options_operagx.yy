@@ -1,0 +1,18 @@
+{
+  "resourceType": "GMOperaGXOptions",
+  "resourceVersion": "1.0",
+  "name": "operagx",
+  "option_operagx_version": "0.0.29.0",
+  "option_operagx_next_version": "0.0.29.1",
+  "option_operagx_game_name": "Cameo Defense",
+  "option_operagx_interpolate_pixels": true,
+  "option_operagx_scale": 0,
+  "option_operagx_texture_page": "2048x2048",
+  "option_operagx_display_cursor": true,
+  "option_operagx_guid": "935c3219-b1cd-49dc-aee7-e229ab16627d",
+  "option_operagx_team_name": "zhallbux studio",
+  "option_operagx_team_id": "49f952f7-f81d-4b07-9e12-bd6da760d943",
+  "option_operagx_editUrl": "https://create.gx.games/game/935c3219-b1cd-49dc-aee7-e229ab16627d/edit",
+  "option_operagx_internalShareUrl": "https://gx.games/games/6pm1s6/cameo-defense/tracks/b603e60d-0564-4f9b-9493-f52a8310ce65/",
+  "option_operagx_publicShareUrl": "https://gx.games/games/6pm1s6/cameo-defense/",
+}

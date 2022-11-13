@@ -1,0 +1,10 @@
+sprite_index = cat_warcraft1
+thiscategory = "warcraft1"
+tech_level = "A"
+graphic_style = "C"
+sovereignty = "X"
+tournament_ready = 1
+humanoid = 1
+seasonal = 0
+meme = 0
+boss = 0

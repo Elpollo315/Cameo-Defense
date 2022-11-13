@@ -1,0 +1,10 @@
+sprite_index = cat_generals
+thiscategory = "generals"
+tech_level = "M"
+graphic_style = "R"
+sovereignty = "X"
+tournament_ready = 1
+humanoid = 1
+seasonal = 0
+meme = 0
+boss = 0

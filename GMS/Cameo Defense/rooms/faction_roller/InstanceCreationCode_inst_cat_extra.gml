@@ -1,0 +1,10 @@
+sprite_index = cat_extra
+thiscategory = "cat_extra"
+tech_level = "X"
+graphic_style = "X"
+sovereignty = "X"
+tournament_ready = 0
+humanoid = 0
+seasonal = 1
+meme = 1
+boss = 1

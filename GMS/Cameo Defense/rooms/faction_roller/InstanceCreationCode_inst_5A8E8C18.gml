@@ -1,0 +1,10 @@
+sprite_index = cat_worms
+thiscategory = "worms"
+tech_level = "M"
+graphic_style = "C"
+sovereignty = "N"
+tournament_ready = 1
+humanoid = 0
+seasonal = 0
+meme = 0
+boss = 0

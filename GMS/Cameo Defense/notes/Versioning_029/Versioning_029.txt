@@ -1,0 +1,57 @@
+0.29
+Imported and converted new CSV
+Added 5 new flags
+Added 3 new categories
+Updated output draw index numbers and toggle categories
+
+Previs: 6
+Finished Faction Roller
+Prevented voice overflow for biker "ok"
+Added tutorial voice over
+Added score counter
+Added tank
+Added Radar
+Added airstrike bomber, bomb, icon, functionality
+Added main menu button
+Lose screen
+TF4 Boss
+Win sound
+Fixed big explosion for Tank
+Boss gets harder, room resets when boss killed "next wave"
+Fixed outside of room error, alarm set on wrong line
+Fixed reseting between matches
+
+Previs: 5
+Fixed FFA team bar
+Fixed Bad Sovereignty icon spelling
+Removed 3rd category button state "banned"
+Interlocked teams and player amount
+Enable all button starts in disable clickable status
+Fixed cell get and set problem (was not using right columns)
+
+Previs: 4
+Spinning vs logo
+CSV import and write fixed
+Option icons
+Player amount recognition
+Team bars
+
+Previs 3:
+GX updates
+Category icons
+Fixed button render angle
+
+Previs 2:
+Rocket cat + speech bubble
+Skippable intro
+GLA Bikers
+Bike ok and die sfx
+Bike explode
+Prevent voice overflow
+Castle hp and collision
+
+Previs 1:
+Intro
+Fade in from black
+Desert background + clouds
+Transition
